@@ -1,1 +1,1 @@
-# LINUX_ESSENTIALS
+# Bash_Scripting_Example
